@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TheACEProject/static/css/main.82576c36.chunk.css",
+    "main.js": "/TheACEProject/static/js/main.9ca2292f.chunk.js",
+    "main.js.map": "/TheACEProject/static/js/main.9ca2292f.chunk.js.map",
+    "runtime-main.js": "/TheACEProject/static/js/runtime-main.8a9f91ad.js",
+    "runtime-main.js.map": "/TheACEProject/static/js/runtime-main.8a9f91ad.js.map",
+    "static/css/2.3a0ac4c9.chunk.css": "/TheACEProject/static/css/2.3a0ac4c9.chunk.css",
+    "static/js/2.0dc1179d.chunk.js": "/TheACEProject/static/js/2.0dc1179d.chunk.js",
+    "static/js/2.0dc1179d.chunk.js.map": "/TheACEProject/static/js/2.0dc1179d.chunk.js.map",
+    "index.html": "/TheACEProject/index.html",
+    "precache-manifest.27c7428367a5de087246d8cab4dc1d04.js": "/TheACEProject/precache-manifest.27c7428367a5de087246d8cab4dc1d04.js",
+    "service-worker.js": "/TheACEProject/service-worker.js",
+    "static/css/2.3a0ac4c9.chunk.css.map": "/TheACEProject/static/css/2.3a0ac4c9.chunk.css.map",
+    "static/css/main.82576c36.chunk.css.map": "/TheACEProject/static/css/main.82576c36.chunk.css.map",
+    "static/js/2.0dc1179d.chunk.js.LICENSE.txt": "/TheACEProject/static/js/2.0dc1179d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TheACEProject/static/media/logo.7687d727.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9f91ad.js",
+    "static/css/2.3a0ac4c9.chunk.css",
+    "static/js/2.0dc1179d.chunk.js",
+    "static/css/main.82576c36.chunk.css",
+    "static/js/main.9ca2292f.chunk.js"
+  ]
+}
