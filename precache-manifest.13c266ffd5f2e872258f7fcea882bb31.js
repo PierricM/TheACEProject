@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66797d2546a09ff69ef017eb080032f1",
+    "revision": "c415fb92cab43aabdbc350172a7611da",
     "url": "/TheACEProject/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheACEProject/static/css/2.3a0ac4c9.chunk.css"
   },
   {
-    "revision": "a32874fddef5087b4ffa",
+    "revision": "605d75d60ab05bbd97cd",
     "url": "/TheACEProject/static/css/main.82576c36.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheACEProject/static/js/2.c0446dda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a32874fddef5087b4ffa",
-    "url": "/TheACEProject/static/js/main.9ca2292f.chunk.js"
+    "revision": "605d75d60ab05bbd97cd",
+    "url": "/TheACEProject/static/js/main.4216396f.chunk.js"
   },
   {
     "revision": "61c0d2bf016a626c84f1",
