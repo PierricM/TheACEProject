@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 html,body{
-  background: #11161D;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 input[type=number]::-webkit-inner-spin-button {
   opacity: 0;
@@ -13,11 +13,11 @@ input[type=number]:focus::-webkit-inner-spin-button {
 }
 /* width */
 ::-webkit-scrollbar {
-  width: 15px;
+  width: 45px;
 }
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d313c;
+  background: #6c1a00;
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
@@ -25,7 +25,7 @@ input[type=number]:focus::-webkit-inner-spin-button {
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #5b5f67;
+  background: #000000;
 }
 .ant-slider-track, .ant-slider:hover .ant-slider-track {
   background-color: #2abdd2;
@@ -33,7 +33,7 @@ input[type=number]:focus::-webkit-inner-spin-button {
 }
 .ant-slider-track,
 .ant-slider ant-slider-track:hover {
-  background-color: #2abdd2;
+  background-color: #000000;
   opacity: 0.75;
 }
 .ant-slider-dot-active,
@@ -43,10 +43,10 @@ input[type=number]:focus::-webkit-inner-spin-button {
   border: 2px solid #2abdd2; 
 }
 .ant-table-tbody > tr.ant-table-row:hover > td {
-  background: #273043;
+  background: #F4511E;
 }
 .ant-table-tbody > tr > td {
-  border-bottom: 8px solid #1A2029;
+  border-bottom: 8px solid #F4511E;
 }
 .ant-table-container table > thead > tr:first-child th {
   border-bottom: none;
@@ -55,13 +55,13 @@ input[type=number]:focus::-webkit-inner-spin-button {
   border-top: 1px solid #434a59 !important;
 }
 .ant-layout {
-    background: #11161D
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   }
   .ant-table {
-    background: #212734;
+    background: #AF2A00;
   }
   .ant-table-thead > tr > th {
-    background: #1A2029;
+    background: #F4511E;
   }
 .ant-select-item-option-content {
   img {
@@ -69,7 +69,7 @@ input[type=number]:focus::-webkit-inner-spin-button {
   }
 }
 .ant-modal-content {
-  background-color: #212734;
+  background-color: #AF2A00;
 }
 
 @-webkit-keyframes highlight {
