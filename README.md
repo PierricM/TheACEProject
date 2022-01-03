@@ -1,6 +1,6 @@
-# Serum DEX UI
+# ACE DEX UI
 
-An implementation of a UI for the Serum DEX.
+An implementation of a UI for the ACE DEX.
 
 ### Running the UI
 
@@ -33,10 +33,10 @@ See the [Create React App documentation](https://facebook.github.io/create-react
 
 ---
 
-See [A technical introduction to the Serum DEX](https://docs.google.com/document/d/1isGJES4jzQutI0GtQGuqtrBUqeHxl_xJNXdtOv4SdII/view) to learn more about the Serum DEX.
+See [A technical introduction to the ACE DEX](https://docs.google.com/document/d/1isGJES4jzQutI0GtQGuqtrBUqeHxl_xJNXdtOv4SdII/view) to learn more about the ACE DEX.
 
-See [serum-js](https://github.com/project-serum/serum-js) for DEX client-side code. Serum DEX UI uses this library.
+See [serum-js](https://github.com/project-serum/serum-js) for DEX client-side code. ACE DEX UI uses this library.
 
-See [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) for an explanation of how the Serum DEX UI interacts with wallet services to sign and send requests to the Serum DEX.
+See [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) for an explanation of how the ACE DEX UI interacts with wallet services to sign and send requests to the ACE DEX.
 
 See [spl-token-wallet](https://github.com/project-serum/spl-token-wallet) for an implementation of such a wallet, live at [sollet.io](https://sollet.io).
