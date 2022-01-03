@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 html,body{
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background-image: url("https://i.pinimg.com/originals/7e/e1/97/7ee1976ee9afb85c9d8db56e96295397.png");
 }
 input[type=number]::-webkit-inner-spin-button {
   opacity: 0;
@@ -55,7 +55,7 @@ input[type=number]:focus::-webkit-inner-spin-button {
   border-top: 1px solid #434a59 !important;
 }
 .ant-layout {
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background-image: url("https://i.pinimg.com/originals/7e/e1/97/7ee1976ee9afb85c9d8db56e96295397.png");
   }
   .ant-table {
     background: #AF2A00;
