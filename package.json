@@ -7,7 +7,7 @@
     "@ant-design/icons": "^4.2.1",
     "@craco/craco": "^5.6.4",
     "@jamesives/github-pages-deploy-action": "^4.1.8",
-    "@ledgerhq/hw-transport-webusb": "^5.41.0",
+    "@ledgerhq/hw-transport-webusb": "^6.27.7",
     "@project-serum/associated-token": "0.1.0",
     "@project-serum/awesome-serum": "1.0.1",
     "@project-serum/pool": "0.2.2",
